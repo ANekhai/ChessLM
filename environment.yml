@@ -1,0 +1,5 @@
+name: chesslm
+dependencies:
+  - pytorch
+  - numpy
+  - pandas
